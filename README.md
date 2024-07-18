@@ -3,8 +3,8 @@
 ## Memo
 
 ``` md
-# Install Flask
-pip install Flask
+# Install
+pip install Flask pymongo
 
 # Run the Flask App
 python app.py
